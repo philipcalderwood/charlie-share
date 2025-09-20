@@ -11,3 +11,7 @@ How to:
 - Read docs for direction instructions, its intuitive.
 
 Docs: `https://mermaid.js.org/syntax/architecture.html`
+
+NB: This can also be used for flow diagrams, mindmaps, etc. It is very powerful and quick. Especially with Gen AI help.
+
+Best wishes

@@ -6,7 +6,7 @@ Hope it helps.
 How to:
 - Load any icons sets from npm using unpkg site (ask gpt for version help if you need)
 - Name them like I have done e.g. logos
-- Edit the mermaid markdown within the html <pre> tag
+- Edit the mermaid markdown within the html `<pre> tag`
 - Call the icon like logos:gunicorn
 - Read docs for direction instructions, its intuitive.
 

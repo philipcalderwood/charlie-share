@@ -10,6 +10,12 @@ How to:
 - Call the icon like logos:gunicorn
 - Read docs for direction instructions, its intuitive.
 
+To save the output:
+- Save as a pdf in your browser (disable headers and footers)
+- Use a tool like pdfcrop to cut it to size
+
+A nice benefit is that the output is vectorised, so overleaf accepts it really nicely, it looks good and stretches / scales smoothly.
+
 Docs: `https://mermaid.js.org/syntax/architecture.html`
 
 NB: This can also be used for flow diagrams, mindmaps, etc. It is very powerful and quick. Especially with Gen AI help.
